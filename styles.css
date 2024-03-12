@@ -206,6 +206,10 @@ footer {
   padding: 20px 0;
 }
 
+.contact-listing {
+  color: #444;
+}
+
 @media only screen and (max-width: 900px) {
   .container {
     width: 95%;
