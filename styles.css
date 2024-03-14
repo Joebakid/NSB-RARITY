@@ -233,7 +233,7 @@ footer {
   color: #444;
 }
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 1300px) {
   .container {
     width: 85%;
     margin: 0 auto;
@@ -242,8 +242,10 @@ footer {
   }
 
   .card {
-    width: 270px;
-    height: 450px;
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
   }
 
   header {
