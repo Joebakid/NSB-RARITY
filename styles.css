@@ -269,12 +269,12 @@ footer {
     /* flex-direction: column; */
     justify-content: center;
     align-items: center;
-    padding: 100px;
+    padding: 50px;
   }
 }
 @media only screen and (max-width: 700px) {
   .container {
-    width: 85%;
+    width: 95%;
     margin: 0 auto;
     padding: 20px 0;
     overflow-x: hidden;
@@ -322,7 +322,7 @@ footer {
     /* flex-direction: column; */
     justify-content: center;
     align-items: center;
-    gap: 100px;
-    padding: 100px;
+    gap: 50px;
+    /* padding: 100px; */
   }
 }
